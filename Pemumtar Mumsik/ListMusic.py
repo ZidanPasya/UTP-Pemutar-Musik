@@ -1,0 +1,51 @@
+Lagu = [ #list Lagu berisi directori path lagu
+    '',
+    'R:\\Code\\Basic Code\\Python\\Pemumtar Mumsik\\Lagu\\Closer.mp3',
+    'R:\\Code\\Basic Code\\Python\\Pemumtar Mumsik\\Lagu\\Sign.mp3',
+    'R:\\Code\\Basic Code\\Python\\Pemumtar Mumsik\\Lagu\\Zenzenzen.mp3',
+    'R:\\Code\\Basic Code\\Python\\Pemumtar Mumsik\\Lagu\\Mantra_Hujan.mp3',
+    'R:\\Code\\Basic Code\\Python\\Pemumtar Mumsik\\Lagu\\What_is_Love.mp3',
+    'R:\\Code\\Basic Code\\Python\\Pemumtar Mumsik\\Lagu\\Dance_The_Night_Away.mp3',
+    'R:\\Code\\Basic Code\\Python\\Pemumtar Mumsik\\Lagu\\Happy_Happy.mp3',
+    'R:\\Code\\Basic Code\\Python\\Pemumtar Mumsik\\Lagu\\Heart_Shaker.mp3',
+    'R:\\Code\\Basic Code\\Python\\Pemumtar Mumsik\\Lagu\\Just_be_yourself.mp3',
+    'R:\\Code\\Basic Code\\Python\\Pemumtar Mumsik\\Lagu\\Likey.mp3',
+    'R:\\Code\\Basic Code\\Python\\Pemumtar Mumsik\\Lagu\\One_in_Million.mp3',
+    'R:\\Code\\Basic Code\\Python\\Pemumtar Mumsik\\Lagu\\Peace_Sign.mp3',
+    'R:\\Code\\Basic Code\\Python\\Pemumtar Mumsik\\Lagu\\Fiction.mp3',
+]
+
+judul = [ #list judul lagu sesuai urutan
+    '',
+    'Closer',
+    'Sign',
+    'Zen Zen Zen',
+    'Mantra Hujan',
+    'What is Love',
+    'Dance The Night Away',
+    'Happy Happy',
+    'Heart Shaker',
+    'Just be yourself',
+    'Likey',
+    'One in Million',
+    'Peace Sign',
+    'Fiction',
+]
+
+Artist = [ #list nama penyanyi/artist
+    '',
+    'Joe Inoue',
+    'Flow',
+    'Radwimps',
+    'Kobo Kanaeru',
+    'Twice',
+    'Twice',
+    'Twice',
+    'Twice',
+    'Twice',
+    'Twice',
+    'Twice',
+    'Kenshi Yonezu',
+    'Sumika',
+    
+]
