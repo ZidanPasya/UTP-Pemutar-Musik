@@ -5,7 +5,7 @@ Kelompok 2:
     -> Reza Nur (2117051057)
 
 Tema: Pemutar Musik
-Github -> 
+Github -> https://github.com/RzaNrRmdhn/UTP-Pemutar-Musik
 """
 from Menu import Menu #import file Menu
 Menu() #memanggil fungsi Menu
