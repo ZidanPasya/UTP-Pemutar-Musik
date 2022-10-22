@@ -17,7 +17,7 @@ def Menu(): #fungsi Menu
             npm = int(input("Masukkan NPM: "))
             Login(nama, npm) #perintah ke fungsi Login
         else:
-            print("Cenk U")
+            print("Terima Kasih!")
     except: #error handling bila input tidak sesuai
         os.system('cls')
         Menu() #kembali ke fungsi Menu
