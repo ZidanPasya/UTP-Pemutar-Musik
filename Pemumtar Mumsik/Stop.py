@@ -12,7 +12,7 @@ def Stop():
         for i in range (2): #loop melooping list menu
             print(menu[i])
         
-        pilih = int(input("Masukkan pilihan: "))
+        pilih = int(input("Masukkan pilihan: ")) #memasukkan inputan
 
         if pilih == 1: #statement kembali ke HomeScreen
             os.system("cls")
